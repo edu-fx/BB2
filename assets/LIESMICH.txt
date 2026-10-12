@@ -1,0 +1,7 @@
+Bilder der App (aus Franz' Vorlagen erzeugt, Originale in ../../bilder_original):
+  bg_arbeitszimmer.jpg   Hintergrund bei Gedicht-Aufgaben
+  bg_studio.jpg          Hintergrund bei Rap-Aufgaben
+  bg_berlin.jpg          Alexanderplatz: Start, Vergleichsaufgaben, Bericht
+  figur_kaestner.jpg     Figur Kästner (Icon)
+  figur_fox.jpg          Figur Peter Fox (Icon)
+  icon-180.png / icon-512.png   App-Symbol für den Home-Bildschirm
